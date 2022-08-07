@@ -12,7 +12,7 @@ https://9to5google.com/2022/07/19/carbon-programming-language-google-cpp/
 
 ## Getting started
 
-```
+```shell
 # Install bazelisk using Homebrew
 $ brew install bazelisk
 
