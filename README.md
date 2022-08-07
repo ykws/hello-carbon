@@ -2,6 +2,14 @@
 
 [![macOS](https://img.shields.io/badge/macOS-Monterey-black)](https://developer.apple.com/macos/)
 
+## The Article
+
+It had attracted me about Carbon.
+
+> If Rust works for you today, you should use it. But moving a C++ ecosystem to Rust is hard.
+
+https://9to5google.com/2022/07/19/carbon-programming-language-google-cpp/
+
 ## Getting started
 
 ```
